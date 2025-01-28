@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XenoGnome
-- 👀 I’m interested in Plant Genomics
+- 👀 I’m interested in Genomics
 - 🌱 I’m currently learning how to explore genomes
 - 📫 reach me here in github
 - 😄 Pronouns: almost/there 
