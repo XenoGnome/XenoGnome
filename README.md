@@ -2,7 +2,7 @@
 - 👀 I’m interested in Genomics
 - 🌱 I’m currently learning how to explore genomes
 - 📫 reach me here in github
-- 😄 Pronouns: almost/there 
+- 😄 Pronouns: almost/there
 - ⚡ Fun fact: i identify as late 
 
 <!---
