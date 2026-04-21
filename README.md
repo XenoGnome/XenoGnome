@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @XenoGnome
-- 👀 I’m interested in Genomics
-- 🌱 I’m currently learning how to explore genomes
+- 👋 Hi, I’m JoJo
+- 👀 I’m interested in Plant Genomics and Genetic Modification
+- 🌱 I’m currently learning how to explore Genomes
 - 📫 reach me here in github
-- 😄 Pronouns: almost/there
-- ⚡ Fun fact: i identify as late 
 
 <!---
 XenoGnome/XenoGnome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
